@@ -1,0 +1,18 @@
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\bin\Debug\net6.0-windows\cöpten adam.exe
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\bin\Debug\net6.0-windows\cöpten adam.deps.json
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\bin\Debug\net6.0-windows\cöpten adam.runtimeconfig.json
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\bin\Debug\net6.0-windows\cöpten adam.dll
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\bin\Debug\net6.0-windows\cöpten adam.pdb
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten_adam.Form1.resources
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten_adam.Properties.Resources.resources
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.csproj.GenerateResource.cache
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.AssemblyInfoInputs.cache
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.AssemblyInfo.cs
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.dll
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\refint\cöpten adam.dll
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.pdb
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\cöpten adam.genruntimeconfig.cache
+C:\Users\selim\source\repos\cöpten adam\cöpten adam\obj\Debug\net6.0-windows\ref\cöpten adam.dll
